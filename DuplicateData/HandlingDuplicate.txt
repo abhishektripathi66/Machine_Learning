@@ -1,0 +1,4 @@
+
+we will see how to process duplicate data, if we dont handle it, it may create problem in later stage and even delay the processing of the data
+
+if the entire row is duplicate only then its called duplicate else its not
