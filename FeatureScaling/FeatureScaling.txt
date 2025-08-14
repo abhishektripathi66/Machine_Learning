@@ -1,0 +1,22 @@
+
+in any given data there are many features and there are data where we have values like 10k 20k 30k and some values lik 1,2,3
+one data or feature is too high and another is too low
+when this data is gievn to ML model, then the feature that is high is made dominated and ignore the low values or even eleminate them
+the importance of that data is reduced
+To avoid this we do feature scaling
+
+we try to bring both high and low features to a median range that they have same pitch
+
+Feature scaling doesnt change the nature of the data
+
+Data magnitude gets reduced after doing the feature scaling and it also depends on type of feature scaling
+
+uses:
+before training the data we have to do feature scaling
+
+there are two types of feature scaling
+1. Normalization
+2. standardization
+
+under Normalization we would be looking at min max scaling although there are many other techniques within that
+
