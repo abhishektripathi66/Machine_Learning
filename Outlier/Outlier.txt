@@ -1,0 +1,11 @@
+if any data that goes beyond a range then that is called outlier data as that data is not in the set range
+
+if our data follows any normal distribution pattern and if the tail goes beyond the normal distribution then thats called  outlier data
+the data that is outside the viscor plot is considered as outlier data
+these outlier data create a noise in all the outcomes.
+
+if my data is within range of 5 and 6, but we got a data thats 13 so it creates alot of nice
+and this gives wrong output
+
+first we will identify the outlier data and then remove it so we have a prcise or best output.
+All the mean, median avg will change coz of the outlier

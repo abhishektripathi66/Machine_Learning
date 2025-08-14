@@ -1,0 +1,6 @@
+
+First go through the images
+then go to the missing values folder check how to add the missing values
+next go to encoding basically how we would be ecoding the categorical data into the numerical format 
+then look into what outliers are and how we would be dealing with it.
+post that go through the Feature Scaling
