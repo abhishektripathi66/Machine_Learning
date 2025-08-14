@@ -1,2 +1,2 @@
 # Machine_Learning
-The Repository Deals with the Machine Learning Codes
+This repository has step by step the machine learning process, how we can start from scratch.

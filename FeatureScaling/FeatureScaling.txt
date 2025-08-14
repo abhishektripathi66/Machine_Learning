@@ -20,3 +20,5 @@ there are two types of feature scaling
 
 under Normalization we would be looking at min max scaling although there are many other techniques within that
 
+scaling doesnt remove outliers, the magnitude can reduce.
+
