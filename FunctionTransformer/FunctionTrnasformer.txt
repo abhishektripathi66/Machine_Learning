@@ -1,0 +1,5 @@
+Function Transformer is used for converting data of any column if its in non normal distribution to normal distribution
+
+we use many functions to do so, some times if scaling dont bring down the values then we use logarithmic functions
+some times we need to change pattern then we van use functional transform like coverting from cm to m and Kelvin to degree celcius
+

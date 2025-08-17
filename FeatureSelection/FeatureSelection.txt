@@ -1,0 +1,22 @@
+there are many columns in the dataset that we have and we should try to find out which column is requried really and which is not, we would be using those columns to build the machine learning model
+and this selection of columns is called feature selection, the columns are called as features.
+
+A feature is an attribute that has an impact on a problem or is useful for the problem,
+and choosing the important features for the model is known as feature selection
+based on the domain we would be selecting the features.
+
+there are some techniques where the domain knowledge is not required such as 
+1. Forward Elimination
+2. Backward Elimination
+
+
+Forward Elimination: 
+ first with model m1 we will find accuracy of all the features and find the highest accuracy feature.
+ then use that feature and combine with all other feature one by one and find and the highest accuracy of the combined feature but that should be higher than the previous accuracy
+ its called forward elmination because we are taking one feature at a time, then two features at a time and later 3 features at a time and s so on.
+
+
+Backward Elmination:
+    Here first we would be taking the accruacy  of all features combined and then remove one feature take accuracy and so on
+
+ 

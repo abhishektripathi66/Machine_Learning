@@ -5,3 +5,5 @@ next go to encoding basically how we would be ecoding the categorical data into 
 then look into what outliers are and how we would be dealing with it.
 post that go through the Feature Scaling
 after the feature scaling is performed have a look on how we are handling the duplicate data
+then we have to replace and change the data type as per the requirement
+Now we should be performing the Funciton Trnasformer
