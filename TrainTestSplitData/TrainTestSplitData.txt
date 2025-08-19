@@ -1,0 +1,13 @@
+if we have the limited data available then we take some part of the dataset for training and another part of the dataset for testing
+if the model accuracy is not good then we retrain the model
+
+if we add the complete data to train and test with same data itll mostly give 100% accuracy
+coz it memorizes or trains on that, so to check if its capable of handling new data we use different data for test and train
+
+so we would use like 70-80% of train data and then have 20-30% data for test which was unseen by the model, to check its accuracy
+if the accuracy is not up to the mark we would retrain the model
+
+This splitting is done only for the Supervised learning and not unsupervised learning
+and we have the data into independent and dependent format,
+we have to find out the independent and dependent data and split them
+

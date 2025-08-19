@@ -7,3 +7,5 @@ post that go through the Feature Scaling
 after the feature scaling is performed have a look on how we are handling the duplicate data
 then we have to replace and change the data type as per the requirement
 Now we should be performing the Funciton Trnasformer
+After transforming we would be looking at how we would be doing the feature selection.
+When feature selection is completed we would be splitting the data into test and train 
